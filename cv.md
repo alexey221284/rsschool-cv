@@ -1,4 +1,6 @@
-# Alexey Zhumaev # ![avatar](foto.jpg "")
+![avatar](foto.jpg "")
+
+# Alexey Zhumaev # 
 
 ---
 ## Contacts: ##
