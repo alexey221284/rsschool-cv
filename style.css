@@ -1,0 +1,45 @@
+body {
+    background-color: #2c2c2c;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #33e64b;
+}
+
+h1 {
+    text-align: center;
+}
+
+.blok {
+    position: relative;
+    width: 20%;
+    display: flex;
+}
+
+.kontakts {
+    position: relative;
+    width: 30%;
+    top: 10%;
+    display: flex;
+}
+
+.conteinerfoto {
+    position: relative;
+    width: 259px;
+    height: 296px;
+    right: -27%;
+    display: flex;
+}
+
+section {
+    position: relative;
+    width: 90%;
+    left: 5%;
+    display: flex;
+}
+
+.text {
+    position: relative;
+    text-align: justify;
+    width: 90%;
+    left: 5%;
+}
