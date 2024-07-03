@@ -1,5 +1,3 @@
-![avatar](foto.jpg "")
-
 # Alexey Zhumaev # 
 
 ---
