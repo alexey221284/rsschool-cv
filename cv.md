@@ -1,7 +1,7 @@
-#### Alexey Zhumaev ####
+# Alexey Zhumaev #
 
 ---
-# Contacts: #
+## Contacts: ##
 
 * phone: +79042440462
 * telegram: @AlexeyZhumaev
@@ -9,7 +9,7 @@
 * skype: live:d228e41e194dcf4
 
 ---
-# About Myself: #
+## About Myself: ##
 
 My goal of studying at the courses is to update my knowledge of JavaScript for career growth. 
 I am proficient in HTML, CSS, JavaScript. I work with Angular and Nest.js frameworks.
@@ -18,7 +18,7 @@ recently I have been developing a corporate logistics and cargo transportation s
 I have been learning English with a tutor 2 times a week for the last 2 years.
 
 ---
-# Skills: #
+## Skills: ##
 
 * HTML5, CSS3, SCSS
 * JavaScript, Typescript
@@ -27,7 +27,7 @@ I have been learning English with a tutor 2 times a week for the last 2 years.
 * VS Code, JetBrains WebStorm, Postman
 
 ---
-# Languages: #
+## Languages: ##
 
 * Russian - Native
 * English - A2 (Elementary)
